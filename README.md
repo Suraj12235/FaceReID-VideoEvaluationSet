@@ -12,6 +12,5 @@ These datasets are designed to evaluate and benchmark face re-identification sys
 ## Features
 - Videos recorded in **office environments** and **outdoor environments**. 
 - Annotations provided in: 
-  - **YOLO 1.1 format**
   - **JSON format** 
 - Annotation tool: **CVAT**
